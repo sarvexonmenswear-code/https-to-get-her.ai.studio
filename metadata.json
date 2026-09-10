@@ -1,0 +1,11 @@
+{
+  "name": "TO-GET-HER",
+  "description": "Anonymous adult social discovery platform to meet new people via instant text and video chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
